@@ -1,0 +1,10 @@
+# General exclusions for the entire project
+node_modules/
+venv/
+*.sqlite
+*.log
+*.db
+.DS_Store
+
+# Frontend build directory
+frontend/build/
