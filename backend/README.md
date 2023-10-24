@@ -1,7 +1,3 @@
-
-**Backend `README.md` Template:**
-
-```markdown
 # Backend: Python
 
 Welcome to the backend component of our project, built using Python.
